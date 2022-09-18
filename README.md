@@ -1,7 +1,7 @@
 # Random Password Generator
 
 
- **The project aims to generate random 12-character secure passwords.**
+ ### **The project aims to generate random 12-character secure passwords.**
 
 
 ![random1](https://user-images.githubusercontent.com/94361819/190905005-bf951f5d-a075-4730-89ba-86e92de91e12.png)
